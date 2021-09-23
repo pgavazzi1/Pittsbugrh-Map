@@ -1,0 +1,43 @@
+.main-title {
+    font-size: 3rem;
+    /* color: red; */
+}
+
+.side-bar {
+    background-color: #e5e9ee;
+    border-radius: 5px;
+    margin: 30px;
+
+    display: inline-block;
+    width: 300px;
+}
+
+.side-bar P {
+    color: #6d99c5;
+}
+
+.side-bar H4 {
+    font-weight: bold;
+}
+
+.map {
+    height: 400px;
+    width: 400px;
+}
+
+.all_map {
+    /* font-size: 3rem; */
+    display: inline-block;
+}
+
+.blankspace {
+    display: block;
+}
+
+.selector {
+    display: inline-block;
+    align-items: center;
+}
+
+
+
